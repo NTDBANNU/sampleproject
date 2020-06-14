@@ -1,6 +1,5 @@
-#source 'https://github.com/CocoaPods/Specs'
+source 'https://github.com/CocoaPods/Specs'
 # ewe
-source 'git@git.sys.cigna.com:ios/specs.git'
 
 inhibit_all_warnings!
 platform :ios, "9.0"
